@@ -1,0 +1,24 @@
+{
+  "name": "git-test01",
+  "version": "0.0.0",
+  "description": "Ini adalah tes pembelajaran Node dan Git",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/E1603co/git-test01.git"
+  },
+  "author": "Eko Purwanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E1603co/git-test01/issues"
+  },
+  "homepage": "https://github.com/E1603co/git-test01",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
